@@ -1,0 +1,59 @@
+1614240616: mosquitto version 2.0.7 starting
+1614240616: Config loaded from /mosquitto/config/mosquitto.conf.
+1614240616: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1614240616: Create a configuration file which defines a listener to allow remote access.
+1614240616: Opening ipv4 listen socket on port 1883.
+1614240616: Opening ipv6 listen socket on port 1883.
+1614240616: Error: Address not available
+1614240616: mosquitto version 2.0.7 running
+1614240640: mosquitto version 2.0.7 terminating
+1614240640: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614240668: mosquitto version 2.0.7 starting
+1614240668: Config loaded from /mosquitto/config/mosquitto.conf.
+1614240668: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1614240668: Create a configuration file which defines a listener to allow remote access.
+1614240668: Opening ipv4 listen socket on port 1883.
+1614240668: Opening ipv6 listen socket on port 1883.
+1614240668: Error: Address not available
+1614240668: mosquitto version 2.0.7 running
+1614242468: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614244269: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614246070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614247871: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614249672: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614251473: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614253274: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614255075: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614256876: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614257631: mosquitto version 2.0.7 terminating
+1614257631: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614257711: mosquitto version 2.0.7 starting
+1614257711: Config loaded from /mosquitto/config/mosquitto.conf.
+1614257711: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1614257711: Create a configuration file which defines a listener to allow remote access.
+1614257711: Opening ipv4 listen socket on port 1883.
+1614257711: Opening ipv6 listen socket on port 1883.
+1614257711: Error: Address not available
+1614257711: mosquitto version 2.0.7 running
+1614258202: mosquitto version 2.0.7 terminating
+1614258202: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614258211: mosquitto version 2.0.7 starting
+1614258211: Config loaded from /mosquitto/config/mosquitto.conf.
+1614258211: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1614258211: Create a configuration file which defines a listener to allow remote access.
+1614258211: Opening ipv4 listen socket on port 1883.
+1614258211: Opening ipv6 listen socket on port 1883.
+1614258211: Error: Address not available
+1614258211: mosquitto version 2.0.7 running
+1614258249: mosquitto version 2.0.7 terminating
+1614258249: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1614258275: mosquitto version 2.0.7 starting
+1614258275: Config loaded from /mosquitto/config/mosquitto.conf.
+1614258275: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1614258275: Create a configuration file which defines a listener to allow remote access.
+1614258275: Opening ipv4 listen socket on port 1883.
+1614258275: Opening ipv6 listen socket on port 1883.
+1614258275: Error: Address not available
+1614258275: mosquitto version 2.0.7 running
+1614258388: mosquitto version 2.0.7 terminating
+1614258388: Saving in-memory database to /mosquitto/data//mosquitto.db.
