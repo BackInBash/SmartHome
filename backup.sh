@@ -20,7 +20,7 @@ function check_sudo ()
 check_sudo
 
 # Check if Docker Composer is Installed
-if [ -z $(which docker-composer) ]; then
+if [ ! -z $(which docker-composer) ]; then
        echo "Docker Composer not found!"
        exit 1
 fi
