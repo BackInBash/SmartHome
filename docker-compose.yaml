@@ -45,7 +45,7 @@ services:
             - "traefik.frontend.rule=Host:node-red && PathPrefix(`/node-red`)"
             - "traefik.http.routers.iot_node-red.rule=PathPrefix(`/node-red`)"
             - "traefik.http.routers.iot_node-red.middlewares=iot_node-red-stripprefix"
-            - "traefik.http.routers.iot_node-red.middlewares=iot_node-red-auth"
+            #- "traefik.http.routers.iot_node-red.middlewares=iot_node-red-auth"
             - "traefik.http.middlewares.iot_node-red-stripprefix.stripprefix.prefixes=/node-red"
             #- "traefik.http.middlewares.iot_node-red-auth.basicauth.users=iot:test123"
     # Mosquitto MQTT Broker      
