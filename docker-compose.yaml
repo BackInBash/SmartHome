@@ -65,6 +65,7 @@ services:
         image: grafana/grafana:latest
         container_name: iot_grafana
         restart: always
+        user: root:root
         volumes:
             - ./grafana:/var/lib/grafana
         environment:
